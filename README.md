@@ -1,5 +1,7 @@
 # PaperOS
 
+**한국어** | [English](README.en.md)
+
 **PDF 한 장 안에서 돌아가는 작은 운영체제.** 화면은 PDF 양식 필드(텍스트 칸·버튼)이고, 동작은 PDF에 넣은 JavaScript가 합니다. 이미지가 아니라 실제로 키보드·마우스 입력을 받아 실행됩니다.
 
 *A tiny OS that lives inside a single PDF: form fields are the screen, embedded PDF JavaScript is the kernel.*
