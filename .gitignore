@@ -1,0 +1,4 @@
+# Built or saved PDFs can hold a user's own files and settings; build your own with `node build.js`.
+*.pdf
+.last-build
+node_modules/
